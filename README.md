@@ -28,7 +28,7 @@ In this repository, we demonstrate the visualization of a qubit's state that lie
 - **Diffusion Operator**: Amplifies the probability of measuring the correct state.
 - **Quantum Speedup**: Quadratic improvement over classical search algorithms.
 
-In this repository, we implement Grover's Algorithm using 2 qubits to search for one of four possible states. The target state is marked using an oracle, and the algorithm amplifies the probability of finding the correct state. The circuit is then simulated, and the results show how the target state emerges with high probability, which is visualized using a histogram.
+In this repository, we implement Grover's Algorithm using 4 qubits to search for one of 16 possible states. The target state is marked using an oracle, and the algorithm amplifies the probability of finding the correct state. The circuit is then simulated, and the results show how the target state emerges with high probability, which is visualized using a histogram.
 
 ---
 
